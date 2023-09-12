@@ -1,4 +1,4 @@
-package com.example.papewall.ui
+package com.example.papewall.fragments
 
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope

@@ -1,4 +1,4 @@
-package com.example.papewall.ui
+package com.example.papewall.fragments
 
 import android.os.Bundle
 import android.view.*

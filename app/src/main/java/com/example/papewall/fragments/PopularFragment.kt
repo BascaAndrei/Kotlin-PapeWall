@@ -1,7 +1,5 @@
-package com.example.papewall.ui
+package com.example.papewall.fragments
 
-import android.view.View
-import androidx.core.view.isVisible
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
 import kotlinx.coroutines.flow.collectLatest
