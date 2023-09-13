@@ -1,7 +1,7 @@
 package com.example.papewall.model.domain
 
 
-import com.google.gson.annotations.SerializedName
+
 
 data class Next(
     @SerializedName("limit")

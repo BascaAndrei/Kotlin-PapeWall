@@ -1,7 +1,9 @@
 package com.khater.retromvvm.model.domain
 
 
-import com.google.gson.annotations.SerializedName
+import com.example.papewall.model.domain.Next
+import com.example.papewall.model.domain.SerializedName
+
 
 data class Pagination(
     @SerializedName("next")

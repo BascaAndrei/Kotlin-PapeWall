@@ -1,7 +1,7 @@
 package com.example.papewall.model.domain
 
+import com.khater.retromvvm.model.domain.Pagination
 
-import com.google.gson.annotations.SerializedName
 
 data class Wallpaper(
     @SerializedName("count")

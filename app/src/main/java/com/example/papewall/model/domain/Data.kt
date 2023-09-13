@@ -1,8 +1,6 @@
 package com.example.papewall.model.domain
 
 
-import com.google.gson.annotations.SerializedName
-
 data class Data(
     @SerializedName("blurHash")
     val blurHash: String?,
@@ -23,7 +21,7 @@ data class Data(
     @SerializedName("likes")
     val likes: Int?,
     @SerializedName("r")
-    val r: com.khater.retromvvm.model.domain.R?,
+    val r: com.example.papewall.model.domain.R?,
     @SerializedName("smallImageUrl")
     var smallImageUrl: String?,
     @SerializedName("updatedAt")
