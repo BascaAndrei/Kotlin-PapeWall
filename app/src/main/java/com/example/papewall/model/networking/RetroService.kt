@@ -2,8 +2,7 @@ package com.example.papewall.model.networking
 
 import com.example.papewall.model.domain.Data
 import com.example.papewall.model.domain.Wallpaper
-import retrofit2.http.GET
-import retrofit2.http.Query
+
 
 interface RetroService {
     // https://woolapi.herokuapp.com/wallpapers/category?category=Gaming
